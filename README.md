@@ -1,5 +1,5 @@
 # Finding Bestie
-# flask-react-group-project
+# flask-react-redux-group-project
 
 
 # Features
@@ -18,9 +18,8 @@ This App doesn't allow person to date more than one person. So, only a user can 
 If they want to break up, click "Breaking Up" button, it will automatically break up and a user status will changed to "Searching".
 
 
-
 ## Avatar
-Once both agree to date, the avatar will changed to their real photo. 
+Once both agree to date, the avatar will be changed to their real photo. 
 
 ## User Profile Page
 A user can upolad their photos and edit their profiles. 
