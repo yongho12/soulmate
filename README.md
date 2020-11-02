@@ -9,26 +9,23 @@ This app will ask questions about you.
 ## ideal partner questionnaire
 This app will ask questions about your ideal partner.
 
-## Match percentages baded on question answer
-A user is not able to see others profile's photos since this app is matching partners depending on your answers of the questionnaire. 
-Once a user submit the questionnaire, this app will display 3 matched people for a user. 
+## Match compatibility based on question answers
+A user is not able to see other profile photos since Finding Bestie matches partners using their answers to the questionnaire. 
+Once a user submits the questionnaire, Finding Bestie will display 3 matches for that user. 
 A user can view only 3 matched profiles but not their photos.
-When a user click "Asking Out and the other person accept it, they can both see their photos and able to send the message each other and the status will changed to "Dating".
-This App doesn't allow person to date more than one person. So, only a user can date one person.  
-If they want to break up, click "Breaking Up" button, it will automatically break up and a user status will changed to "Searching".
+When a user clicks "Asking Out" and the other person accepts it, they will be able to send messages to each other directly. The status of both users will change to "Dating".
+Finding Bestie doesn't allow a user to date more than one person at a time. So, users can only date one other user.  
+If a either of the Dating users wants to break up, by clicking the "Break Up" button, Finding Bestie will automatically initiate the break up and the status of each user will change to "Searching".
 
 
 ## Avatar
-Once both agree to date, the avatar will be changed to their real photo. 
+Once both users agree to date, their avatars will changed to a heart. 
 
 ## User Profile Page
-A user can upolad their photos and edit their profiles. 
+A user can upload and edit their profiles. 
 
-## Report the person
-Once a user can report the partner to this app if she/he is dangerous. The partner's status is changed to "Reported".
-
-
-
+## Report/Alert
+A user can report inappropriate behavior to Finding Bestie. The violator's status will be changed to "Reported".
 
 ## Bonus: Admin Role 
 Admin can change the status of "Reported" depending on findings. 
