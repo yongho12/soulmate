@@ -27,6 +27,9 @@ A user can upload and edit their profiles.
 ## Report/Alert
 A user can report inappropriate behavior to Finding Bestie. The violator's status will be changed to "Reported".
 
+## Bonus: Adding Questions & Examples
+## Bonus: Adding Rules for Matching Logic
+
 ## Bonus: Admin Role 
 Admin can change the status of "Reported" depending on findings. 
 
