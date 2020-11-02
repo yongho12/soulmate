@@ -1,4 +1,4 @@
-# Inner Beauty
+# Finding Bestie
 # flask-react-group-project
 
 
