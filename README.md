@@ -1,4 +1,4 @@
-# soulmate
+# Inner Beauty
 # flask-react-group-project
 
 
@@ -10,13 +10,14 @@ This app will ask questions about you.
 This app will ask questions about your ideal partner.
 
 ## Match percentages baded on question answer
-A user isn't able to see others profile photos since this app is matching partners depending on your questionary. 
-This app will recommend 3 matches for a user. 
+A user is not able to see others profile's photos since this app is matching partners depending on your answers of the questionnaire. 
+Once a user submit the questionnaire, this app will display 3 matched people for a user. 
 A user can view only 3 matched profiles but not their photos.
-When a user click "Asking Out", a the other partner accept it, they can both see their photos and able to message each other. 
-The status will changed to "Dating".
-This App doesn't allow two timer. So, only a user can date one person. 
+When a user click "Asking Out and the other person accept it, they can both see their photos and able to send the message each other and the status will changed to "Dating".
+This App doesn't allow person to date more than one person. So, only a user can date one person.  
 If they want to break up, click "Breaking Up" button, it will automatically break up and a user status will changed to "Searching".
+
+
 
 ## Avatar
 Once both agree to date, the avatar will changed to their real photo. 
@@ -32,7 +33,6 @@ Once a user can report the partner to this app if she/he is dangerous. The partn
 
 ## Bonus: Admin Role 
 Admin can change the status of "Reported" depending on findings. 
-## Bonus: Adding location base
 
 
 # Flask React Project
